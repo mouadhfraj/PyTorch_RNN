@@ -5,7 +5,7 @@ This project is a deep dive into Recurrent Neural Networks (RNNs), specifically 
 ## Introduction to RNNs
 Recurrent Neural Networks are a type of neural network architecture ideal for sequential data, such as time series or natural language. Unlike traditional feedforward networks, RNNs have connections that form cycles within the network, allowing information to persist. This feature makes them well-suited for tasks that involve data sequences, like text generation, language translation, and speech recognition.
 
-If you're new to RNNs, you might want to check out an introductory post on understanding RNNs, which covers the basics of how they work and how to implement an RNN in Keras. This project, however, uses PyTorch to give you more control over the implementation details.
+
 
 ## Project Overview
 This repository aims to implement a simple RNN in PyTorch. The steps include:
